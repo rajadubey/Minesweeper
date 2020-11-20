@@ -6,3 +6,5 @@ Bomb cell can be avoided by using simply identify the number showing in the cell
 Git: https://github.com/rajadubey/Minesweeper.git
 
 Codesandbox: https://codesandbox.io/s/minesweeper-bleve
+
+Netlify: https://minesweeper-ns.netlify.app/
